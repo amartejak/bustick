@@ -1,0 +1,8 @@
+{
+  "name": "bustick",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react",
+  "id": "ecc66651"
+}
